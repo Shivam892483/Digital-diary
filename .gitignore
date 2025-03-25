@@ -1,0 +1,8 @@
+# ✅ ɪɢɴᴏʀᴇ ᴄᴀᴄʜᴇ ꜰɪʟᴇꜱ ᴀɴᴅ ᴜɴɴᴇᴄᴇꜱꜱᴀʀʏ ꜰᴏʟᴅᴇʀꜱ /
+
+__pycache__/   
+Downloads/   
+config.py 
+test.py
+log.txt 
+sample_page.png
